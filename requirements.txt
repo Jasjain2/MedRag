@@ -1,0 +1,7 @@
+sentence-transformers
+transformers
+torch
+numpy
+datasets
+rank-bm25
+gradio
